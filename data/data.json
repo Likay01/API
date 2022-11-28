@@ -1,0 +1,22 @@
+{
+    "laptop":[
+        {
+            "id": 1,
+            "brand":"Acer",
+            "serialNumber":"330SA",
+            "userName":"Likay01"
+        },
+        {
+            "id": 2,
+            "brand":"Dell",
+            "serialNumber":"1201CC",
+            "userName":"Lindo"
+        },
+        {
+            "id": 3,
+            "brand":"Lenovo",
+            "serialNumber":"50D42",
+            "userName":"Lindokuhle"
+        }
+    ]
+}
